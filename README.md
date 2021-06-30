@@ -5,4 +5,8 @@ Es de código libre y obviamente sin derechos de author (porque la información 
 # ¿Por qué estoy haciendo esto?
 Realmente, para que todo el mundo pueda ver como es un bot (pensar que este bot no esta diseñado para empezar desde 0, pero igualmente creara mas archivos como esto para explicar el código)
 
+# Agredecimientos por (Aqui iran apareciendo las personas que ayudaran o han ayudado en algo)
+AntonioMA_
+Scin-aRuLun
+
 Happy Haking :D/
