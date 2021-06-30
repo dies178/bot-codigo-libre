@@ -1,5 +1,8 @@
-# bot-codigo-libre
-Esto es un bot de discord.js creado por mi, para la comunidad, que estara de vez en cuando camibando y editandose
+# Sobre el proyecto
+Buenas, soy DiegoEspada, y este bot esta siendo creado totalmente por mi con ayuda de otras personas. 
+Es de código libre y obviamente sin derechos de author (porque la información lo puedes encontrar en otros lados, y creo que así es mas cómodo para todos)
 
-# ¿Para quien va esto?
-Va para gente que sabe algo de node, pero todo el mundo puede verlo perfectamente.
+# ¿Por qué estoy haciendo esto?
+Realmente, para que todo el mundo pueda ver como es un bot (pensar que este bot no esta diseñado para empezar desde 0, pero igualmente creara mas archivos como esto para explicar el código)
+
+Happy Haking :D/
